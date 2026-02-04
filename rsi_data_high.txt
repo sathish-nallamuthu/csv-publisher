@@ -1,3 +1,7 @@
+Timestamp: 2026-02-04 14:21:25
+symbol,kite_token,breeze_code,priority,rsi,timestamp
+POONAWALLA,2919169,MAGFI,5,80.60,2026-02-04 14:18:00
+
 Timestamp: 2026-02-04 14:17:18
 symbol,kite_token,breeze_code,priority,rsi,timestamp
 SHAREINDIA,26625,SHARIN,5,81.39,2026-02-04 14:15:00
