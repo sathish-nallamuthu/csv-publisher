@@ -1,3 +1,7 @@
+Timestamp: 2026-02-06 12:16:48
+symbol,kite_token,breeze_code,priority,rsi,timestamp
+TARC,404737,ANARA,5,24.78,2026-02-06 12:15:00
+
 Timestamp: 2026-02-06 12:13:15
 symbol,kite_token,breeze_code,priority,rsi,timestamp
 HDFCLIFE,119553,HDFSTA,5,24.61,2026-02-06 12:12:00
