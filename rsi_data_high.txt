@@ -1,3 +1,8 @@
+Timestamp: 2026-02-06 10:27:03
+symbol,kite_token,breeze_code,priority,rsi,timestamp
+RICOAUTO,744705,RICAUT,5,80.52,2026-02-06 10:24:00
+LICI,2426881,LIC,5,83.74,2026-02-06 10:24:00
+
 Timestamp: 2026-02-06 10:23:33
 symbol,kite_token,breeze_code,priority,rsi,timestamp
 LICI,2426881,LIC,5,81.68,2026-02-06 10:21:00
