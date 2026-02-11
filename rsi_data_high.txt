@@ -1,3 +1,7 @@
+Timestamp: 2026-02-11 12:11:34
+symbol,kite_token,breeze_code,priority,rsi,timestamp
+AVANTEL,6300161,AVASOF,5,87.05,2026-02-11 12:09:00
+
 Timestamp: 2026-02-11 12:07:55
 symbol,kite_token,breeze_code,priority,rsi,timestamp
 AVANTEL,6300161,AVASOF,5,85.25,2026-02-11 12:06:00
