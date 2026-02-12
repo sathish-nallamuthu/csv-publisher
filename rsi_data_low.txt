@@ -1,3 +1,9 @@
+Timestamp: 2026-02-12 15:03:53
+symbol,kite_token,breeze_code,priority,rsi,timestamp
+HLEGLAS,585985,SWIGLA,5,16.80,2026-02-12 15:00:00
+RCF,733697,RCF,5,24.08,2026-02-12 15:00:00
+BAGDIGITAL,194411521,BAGCON,5,23.11,2026-02-12 14:57:00
+
 Timestamp: 2026-02-12 14:59:15
 symbol,kite_token,breeze_code,priority,rsi,timestamp
 HLEGLAS,585985,SWIGLA,5,17.55,2026-02-12 14:57:00
