@@ -1,3 +1,7 @@
+Timestamp: 2026-02-12 14:27:22
+symbol,kite_token,breeze_code,priority,rsi,timestamp
+BAGDIGITAL,194411521,BAGCON,5,23.11,2026-02-12 14:21:00
+
 Timestamp: 2026-02-12 14:23:02
 symbol,kite_token,breeze_code,priority,rsi,timestamp
 FIRSTCRY,6352385,BRASOL,5,23.87,2026-02-12 14:21:00
