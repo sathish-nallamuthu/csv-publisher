@@ -1,3 +1,7 @@
+Timestamp: 2026-02-16 11:39:01
+symbol,kite_token,breeze_code,priority,rsi,timestamp
+CLSEL,891393,CHASET,5,15.67,2026-02-16 11:36:00
+
 Timestamp: 2026-02-16 11:35:33
 symbol,kite_token,breeze_code,priority,rsi,timestamp
 APOLLOTYRE,41729,APOTYR,5,23.74,2026-02-16 11:33:00
