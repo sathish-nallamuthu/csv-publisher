@@ -1,3 +1,10 @@
+Timestamp: 2026-02-18 15:30:44
+symbol,kite_token,breeze_code,priority,rsi,timestamp
+IDBI,377857,IDBI,5,22.28,2026-02-18 15:27:00
+GVPIL,2012673,ALSIND,5,23.28,2026-02-18 15:27:00
+RACLGEAR,6955777,RAUINT,5,24.02,2026-02-18 15:27:00
+FRACTAL,194806017,FRAANA,5,23.56,2026-02-18 15:27:00
+
 Timestamp: 2026-02-18 15:27:08
 symbol,kite_token,breeze_code,priority,rsi,timestamp
 BHEL,112129,BHEL,5,16.30,2026-02-18 15:24:00
