@@ -1,3 +1,7 @@
+Timestamp: 2026-02-19 14:46:44
+symbol,kite_token,breeze_code,priority,rsi,timestamp
+GOLDKART,3485697,SONHIS,5,99.64,2026-02-19 14:39:00
+
 Timestamp: 2026-02-19 14:43:10
 symbol,kite_token,breeze_code,priority,rsi,timestamp
 GOLDKART,3485697,SONHIS,5,99.64,2026-02-19 14:39:00
