@@ -1,3 +1,7 @@
+Timestamp: 2026-02-19 12:33:13
+symbol,kite_token,breeze_code,priority,rsi,timestamp
+MAGSON,4374529,MAGRET,5,0.00,2026-02-19 12:12:00
+
 Timestamp: 2026-02-19 12:29:38
 symbol,kite_token,breeze_code,priority,rsi,timestamp
 DABUR,197633,DABIND,5,23.71,2026-02-19 12:27:00
