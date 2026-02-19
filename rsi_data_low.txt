@@ -1,3 +1,8 @@
+Timestamp: 2026-02-19 15:01:01
+symbol,kite_token,breeze_code,priority,rsi,timestamp
+MAGSON,4374529,MAGRET,5,0.00,2026-02-19 14:33:00
+HEXT,7594497,HEXTEC,5,18.01,2026-02-19 15:00:00
+
 Timestamp: 2026-02-19 14:57:26
 symbol,kite_token,breeze_code,priority,rsi,timestamp
 MAGSON,4374529,MAGRET,5,0.00,2026-02-19 14:33:00
