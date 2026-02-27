@@ -1,3 +1,7 @@
+Timestamp: 2026-02-27 12:13:34
+symbol,kite_token,breeze_code,priority,rsi,timestamp
+MAGSON,4374529,MAGRET,5,100.00,2026-02-26 15:27:00
+
 Timestamp: 2026-02-27 12:10:01
 symbol,kite_token,breeze_code,priority,rsi,timestamp
 GODFRYPHLP,302337,GODPHI,5,84.05,2026-02-27 12:09:00
