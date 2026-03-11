@@ -1,3 +1,7 @@
+Timestamp: 2026-03-11 09:19:38
+symbol,kite_token,breeze_code,priority,rsi,timestamp
+AIIL,6029569,AUTINV,5,18.45,2026-03-11 09:18:00
+
 Timestamp: 2026-03-11 09:16:01
 symbol,kite_token,breeze_code,priority,rsi,timestamp
 AIIL,6029569,AUTINV,5,21.40,2026-03-11 09:15:00
