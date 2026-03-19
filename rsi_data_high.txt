@@ -1,3 +1,7 @@
+Timestamp: 2026-03-19 14:02:22
+symbol,kite_token,breeze_code,priority,rsi,timestamp
+TEJASCARGO,7609089,TEJCAR,5,99.21,2026-03-19 13:18:00
+
 Timestamp: 2026-03-19 13:58:05
 symbol,kite_token,breeze_code,priority,rsi,timestamp
 TEJASCARGO,7609089,TEJCAR,5,99.21,2026-03-19 13:18:00
