@@ -1,3 +1,7 @@
+Timestamp: 2026-03-19 12:51:16
+symbol,kite_token,breeze_code,priority,rsi,timestamp
+TENNIND,194529281,TENCLE,5,24.48,2026-03-19 12:51:00
+
 Timestamp: 2026-03-19 12:47:07
 
 Timestamp: 2026-03-19 12:43:04
