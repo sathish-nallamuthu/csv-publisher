@@ -1,3 +1,7 @@
+Timestamp: 2026-03-24 15:14:40
+symbol,kite_token,breeze_code,priority,rsi,timestamp
+CGCL,5204225,CAPGLO,5,87.63,2026-03-24 15:12:00
+
 Timestamp: 2026-03-24 15:10:45
 symbol,kite_token,breeze_code,priority,rsi,timestamp
 CGCL,5204225,CAPGLO,5,81.71,2026-03-24 15:09:00
