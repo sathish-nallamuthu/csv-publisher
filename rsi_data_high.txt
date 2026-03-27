@@ -1,3 +1,7 @@
+Timestamp: 2026-03-27 14:07:39
+symbol,kite_token,breeze_code,priority,rsi,timestamp
+SHADOWFAX,194936065,SHATEC,5,82.83,2026-03-27 14:06:00
+
 Timestamp: 2026-03-27 14:03:49
 symbol,kite_token,breeze_code,priority,rsi,timestamp
 SHADOWFAX,194936065,SHATEC,5,82.65,2026-03-27 14:03:00
