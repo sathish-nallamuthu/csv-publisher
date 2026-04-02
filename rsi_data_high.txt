@@ -1,3 +1,7 @@
+Timestamp: 2026-04-02 14:39:00
+symbol,kite_token,breeze_code,priority,rsi,timestamp
+SONATSOFTW,1688577,SONSOF,5,84.25,2026-04-02 14:36:00
+
 Timestamp: 2026-04-02 14:35:18
 symbol,kite_token,breeze_code,priority,rsi,timestamp
 ADANIGREEN,912129,ADAGRE,5,81.11,2026-04-02 14:33:00
