@@ -1,3 +1,7 @@
+Timestamp: 2026-04-02 12:42:48
+symbol,kite_token,breeze_code,priority,rsi,timestamp
+LGEINDIA,194614529,LGELEC,5,19.09,2026-04-02 12:42:00
+
 Timestamp: 2026-04-02 12:39:06
 symbol,kite_token,breeze_code,priority,rsi,timestamp
 LGEINDIA,194614529,LGELEC,5,15.53,2026-04-02 12:39:00
