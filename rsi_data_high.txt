@@ -1,3 +1,7 @@
+Timestamp: 2026-04-08 14:43:00
+symbol,kite_token,breeze_code,priority,rsi,timestamp
+MTARTECH,693505,MTATEC,5,83.86,2026-04-08 14:42:00
+
 Timestamp: 2026-04-08 14:39:30
 symbol,kite_token,breeze_code,priority,rsi,timestamp
 MTARTECH,693505,MTATEC,5,87.28,2026-04-08 14:39:00
