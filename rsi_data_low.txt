@@ -1,3 +1,7 @@
+Timestamp: 2026-04-16 13:49:04
+symbol,kite_token,breeze_code,priority,rsi,timestamp
+BECTORFOOD,416769,MRSBEC,5,21.18,2026-04-16 13:48:00
+
 Timestamp: 2026-04-16 13:45:14
 symbol,kite_token,breeze_code,priority,rsi,timestamp
 BECTORFOOD,416769,MRSBEC,5,22.61,2026-04-16 13:42:00
