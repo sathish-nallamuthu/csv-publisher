@@ -1,3 +1,7 @@
+Timestamp: 2026-04-17 11:52:30
+symbol,kite_token,breeze_code,priority,rsi,timestamp
+GAUDIUMIVF,194605569,GAUIVF,5,23.76,2026-04-17 11:51:00
+
 Timestamp: 2026-04-17 11:48:39
 
 Timestamp: 2026-04-17 11:44:45
